@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+/*je color le body*/
+html{
+}
+body{
+  background-color:#e0e0e0;
+  font-family:sans-serif;
+  background-color: grey;
+}
+main{
+  min-height: 100vh;
+  /*background-color: grey;*/
+}
+/*je positionne le logo*/
+.brand-logo  {
+ margin-left:5%;
+}
+
+/*je color l'icone*/
+
+i.material-icons {
+  color:#ffd600;
+}
+
+/*NAV*/
+
+nav{
+   font-family: 'NoRaleway', sans-serif;
+
+/*FOOTER*/
+
+footer ul span {
+  font-family: 'Source Code Pro', monospace;
+}
+
+span p {
+  font-family: 'Source Code Pro', monospace;
+}
+
+h5{
+  font-family: 'Nothing You Could Do', cursive;
+  }
+
+#dedi{
+  font-family: 'Nothing You Could Do', cursive;
+}
+
+#blank{
+  font-family: 'Source Code Pro', monospace;
+}
+
+span div {
+  font-family: 'Source Code Pro', monospace;
+}
+.formback{
+  background-color: #e0e0e0;
+}
+.bodyform{
+  background-color: #e0e0e0;
+}
+div.row
+{
+  width: 30vw;
+  padding: 3% 3%;
+  flex-direction: row;
+}
+div.containerprojet
+{
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+/*mes fonts
+
+font-family: 'Nothing You Could Do', cursive;
+font-family: 'Hanalei Fill', cursive;
+font-family: 'Modak', cursive;
+font-family: 'Source Code Pro', monospace;
+*/
