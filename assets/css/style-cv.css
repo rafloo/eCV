@@ -72,6 +72,10 @@ div.containerprojet
   display: flex;
 }
 
+fieldset
+{
+  border-color:#ffd600 !important;
+}
 /*mes fonts
 
 font-family: 'Nothing You Could Do', cursive;
