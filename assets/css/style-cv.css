@@ -72,12 +72,12 @@ div.containerprojet
   display: flex;
 }
 
-.card .card-image {
+.card.card-image {
     position: relative;
     max-height: 200px;
     overflow: hidden;
 {
-  
+
 /*mes fonts
 
 font-family: 'Nothing You Could Do', cursive;
