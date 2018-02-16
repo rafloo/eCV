@@ -27,7 +27,7 @@ i.material-icons {
 
 nav{
    font-family: 'NoRaleway', sans-serif;
-
+}
 /*FOOTER*/
 
 footer ul span {
@@ -72,11 +72,25 @@ div.containerprojet
   display: flex;
 }
 
-.card.card-image {
+.card.card-image
+{
     position: relative;
     max-height: 200px;
     overflow: hidden;
-{
+}
+
+#disba {
+  margin-left: -53%;
+  height: 200px;
+}
+
+div.photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  overflow: hidden;
+}
+
 
 /*mes fonts
 
